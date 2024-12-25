@@ -42,7 +42,7 @@ def job():
 
 def main():
     print("Бот запущен.")
-    schedule.every().day.at("03:24").do(job)
+    schedule.every().day.at("10:30").do(job)
 
 
     while True:
