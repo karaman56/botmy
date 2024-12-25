@@ -13,5 +13,5 @@ htmlcov/
 .tox
 botmy/.env
 .venv/
-.env
+*.env
 
